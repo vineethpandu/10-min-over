@@ -97,18 +97,13 @@ deployement tool used: AWS(Amazon Web Services)
 - Linkedin: [Akash Pathak](https://www.linkedin.com/in/akash-pathak-0796a7165)
 - Email: (pathakvikash9211@gmail.com)
 
-👤 **Manish Kumar**
 
-- Github: [@Manish-kumar-DEV](https://github.com/Manish-kumar-DEV)
-- Linkedin: [manish-kumar-dev](https://www.linkedin.com/in/manish-kumar-dev/)
-- Email: (manish1771999@gmail.com)
+ **vineeth*
 
-👱‍♀️ **Gargi Das**
+- Github: [
 
-- Github: [@Gargi-123](https://github.com/Gargi-123)
-- Twitter: [@GargiDas1079419](https://twitter.com/GargiDas1079419)
-- Linkedin: [Gargi Das](https://www.linkedin.com/in/gargi-das-57701b197/)
-- Email: (dasgargi100@gmail.com)
+- Linkedin: [vineeth](https://www.linkedin.com/in/vineeth-tirumalasetti-7749621ba/)
+- Email: (vineethworkspace2024@gmail.com)
 
 ## 🤝 Contributing
 
